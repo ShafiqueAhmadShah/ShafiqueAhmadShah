@@ -1,7 +1,7 @@
 # Welcome to [Shafique Ahmad Shah's]([https://aswinbarath.me/](https://github.com/ShafiqueAhmadShah)) profile! <a href="https://github.com/ShafiqueAhmadShah"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <p style="display: flex">
-  <a href="www.linkedin.com/in/shafique-ahmad-shah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shafique-ahmad-shah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.facebook.com/xyed.Shafique" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
