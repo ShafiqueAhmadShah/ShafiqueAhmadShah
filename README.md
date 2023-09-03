@@ -9,7 +9,7 @@
 
 
 
-## Glad to see you here! (www.linkedin.com/in/shafique-ahmad-shah)
+## Glad to see you here! <a href="https://www.linkedin.com/in/shafique-ahmad-shah"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I am a full-stack software engineer. I love programming, reading, writing and speaking.
 
