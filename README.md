@@ -29,8 +29,7 @@ That's why I like to make things that make a difference.
   - Data Structures and Algorithms
   - Mobile App Development
 - 📬 How to reach me: [shahjebest@gmail.com](mailto:shahjebest@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1ErciDTEZvQO9WS-RXsHjRZ4cWpMXzCw_/view?usp=drivesdk).
-- //(https://drive.google.com/file/d/11mvHNAl6RFu1nzKGzVcp-oYG5HPyh4V-/view?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/11mvHNAl6RFu1nzKGzVcp-oYG5HPyh4V-/view?usp=drive_link).
 
 
 <h3 align="left">Languages and Tools:</h3>
