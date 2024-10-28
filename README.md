@@ -28,7 +28,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms
   - Mobile App Development
-- 📬 How to reach me: [shahjebest@gmail.com](mailto:shahjebest@gmail.com)
+- 📬 How to reach me: [shafiqueahmadshahoff@gmail.com](mailto:shafiqueahmadshahoff@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/11mvHNAl6RFu1nzKGzVcp-oYG5HPyh4V-/view?usp=drive_link).
 
 
