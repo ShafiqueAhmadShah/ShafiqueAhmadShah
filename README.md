@@ -23,11 +23,9 @@ Visual Studio Code | Android Studio | Postman </h3>
 
 ### Talking about Personal Stuffs:
 
-<h1>🌟 <strong>Professional Profile: Shafique Ahmad Shah</strong> 🌟</h1>
 
-    <ul>
-        <li><strong>👨‍💻 Software Engineer:</strong> Passionate about developing efficient web and mobile applications.</li>
-        <li><strong>🚀 Skills and Expertise:</strong>
+  <li><strong>👨‍💻 Software Engineer:</strong> Passionate about developing efficient web and mobile applications.</li>
+    <li><strong>🚀 Skills and Expertise:</strong>
             <ul>
                 <li><strong>Web Development:</strong> Angular, ASP.NET</li>
                 <li><strong>Mobile Development:</strong> Learning Flutter, Android, iOS</li>
@@ -37,13 +35,13 @@ Visual Studio Code | Android Studio | Postman </h3>
                 <li><strong>Version Control:</strong> Git</li>
             </ul>
         </li>
-        <li><strong>📚 Currently Learning:</strong>
+         <li><strong>📚 Currently Learning:</strong>
             <ul>
                 <li><strong>Data Structures and Algorithms (DSA):</strong> Enhancing problem-solving skills.</li>
                 <li><strong>Mobile App Development:</strong> Exploring Flutter and native development.</li>
             </ul>
         </li>
-        <li><strong>🤝 Let’s Collaborate:</strong>
+    <li><strong>🤝 Let’s Collaborate:</strong>
             <ul>
                 <li>Happy to help with web development, software engineering best practices, and mobile app development.</li>
                 <li>Open to discussing DSA concepts, code optimization, or web API integrations.</li>
@@ -55,7 +53,6 @@ Visual Studio Code | Android Studio | Postman </h3>
                 <li><strong>Resume:</strong> <a href="https://drive.google.com/file/d/11mvHNAl6RFu1nzKGzVcp-oYG5HPyh4V-/view?usp=drive_link" target="_blank">View My Resume</a></li>
             </ul>
         </li>
-    </ul>
 
     <p>📝 <strong>Looking forward to building great things together!</strong></p>
 
