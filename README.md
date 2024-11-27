@@ -23,9 +23,7 @@ Visual Studio Code | Android Studio | Postman </h3>
 
 ### Talking about Personal Stuffs:
 
-
-  <li><strong>👨‍💻 Software Engineer:</strong> Passionate about developing efficient web and mobile applications.</li>
-    <li><strong>🚀 Skills and Expertise:</strong>
+   <strong>🚀 Skills and Expertise:</strong>
             <ul>
                 <li><strong>Web Development:</strong> Angular, ASP.NET</li>
                 <li><strong>Mobile Development:</strong> Learning Flutter, Android, iOS</li>
@@ -34,7 +32,6 @@ Visual Studio Code | Android Studio | Postman </h3>
                 <li><strong>Data Management:</strong> SQL Server, Entity Framework</li>
                 <li><strong>Version Control:</strong> Git</li>
             </ul>
-        </li>
          <li><strong>📚 Currently Learning:</strong>
             <ul>
                 <li><strong>Data Structures and Algorithms (DSA):</strong> Enhancing problem-solving skills.</li>
