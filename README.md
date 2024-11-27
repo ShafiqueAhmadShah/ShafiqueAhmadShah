@@ -15,8 +15,8 @@ With a background in full-stack development, I work with HTML, CSS, JavaScript, 
 
 <b>Tools & Technologies:</b>
 
-<h2>HTML | CSS | JavaScript | Bootstrap | jQuery | Angular | ASP.NET MVC | MS SQL | C# | Flutter | Dart | SQF
-Visual Studio Code | Android Studio | Postman </h2>
+<h3>HTML | CSS | JavaScript | Bootstrap | jQuery | Angular | ASP.NET MVC | MS SQL | C# | Flutter | Dart | SQF
+Visual Studio Code | Android Studio | Postman </h3>
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
