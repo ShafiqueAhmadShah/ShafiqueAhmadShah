@@ -11,11 +11,12 @@
 
 ## Glad to see you here! <a href="https://www.linkedin.com/in/shafique-ahmad-shah"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a full-stack software engineer. I love programming, reading, writing and speaking.
+With a background in full-stack development, I work with HTML, CSS, JavaScript, Angular, jQuery, ASP.NET, MSSQL, C#, Flutter, SQF, and Dart to deliver dynamic and responsive applications. I’m committed to crafting user-centered solutions that meet stakeholder goals and adapt to project needs. I focus on creating seamless digital experiences and continuously building my expertise across the tech stack. Passionate about the transformative potential of technology, I embrace new challenges and opportunities for growth in both web and software development.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+<b>Tools & Technologies:</b>
 
-That's why I like to make things that make a difference.
+HTML | CSS | JavaScript | Bootstrap | jQuery | Angular | ASP.NET MVC | MS SQL | C# | Flutter | Dart | SQF
+Visual Studio Code | Android Studio | Postman
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
